@@ -11,7 +11,7 @@
 
 This project applies **logistic regression** to predict whether a Division I NCAA basketball team will make the NCAA Tournament based on season performance metrics and conference classification.
 
-Using real NCAA basketball data, we estimate **odds ratios, confidence intervals, hypothesis tests, and probabilities** to answer meaningful sports analytics questions including:
+Using real NCAA basketball data, we estimate **odds ratios, confidence intervals, hypothesis tests, and probabilities** to answer sports analytics questions including:
 
 - How do wins and offensive efficiency affect tournament selection?
 - How much does conference strength matter?
